@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [click here](https://your-solution-url.com)
+- Solution URL: [click here](https://www.frontendmentor.io/solutions/semantic-html5-markup-css-custom-properties-flexbox-desktopfirs-73_4IJsjH)
 - Live Site URL: [Live site](https://thaanirs.github.io/Order-summary-card-solution/)
 
 ## My process
